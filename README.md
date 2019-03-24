@@ -19,4 +19,4 @@
 		to a channel with ID of `123`
 
 
-THe bot works on the Chatr proj by default: https://github.com/Pre1/Chatr2.0-UI
+The bot works on the Chatr proj by default: https://github.com/Pre1/Chatr2.0-UI
