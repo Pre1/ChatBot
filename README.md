@@ -17,3 +17,6 @@
 		eg: `/post 2 3 id=123 test`
 		=> same thing as the above but it'll be posted
 		to a channel with ID of `123`
+
+
+THe bot works on the Chatr proj by default: https://github.com/Pre1/Chatr2.0-UI
